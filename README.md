@@ -2,7 +2,7 @@
 
 ---
 
-# Loan Recovery Performance Dashboard  
+# Loan Recovery Reporting Dashboard  
 
 This project focuses on **automating loan recovery performance reporting** for 40+ Relationship Managers (RMs) across local and international departments.  
 Data is collected from **CRM and Yeaster systems**, cleaned and processed using **Python**, and visualized through **Excel and Power BI dashboards**.
